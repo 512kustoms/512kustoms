@@ -76,7 +76,7 @@ className="object-contain transition duration-300 group-hover:scale-105"        
                 </h3>
 
                 <a
-                  href="#contact"
+                  href="https://www.facebook.com/512Kustoms"
                   className="mt-6 inline-flex w-full items-center justify-center rounded-lg bg-purple-600 py-3 font-semibold text-white transition hover:bg-purple-700"
                 >
                   Request Quote
